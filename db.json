@@ -5,7 +5,7 @@
       "name": "Gradient Graphic T-shirt",
       "price": 145,
       "rating": 3.5,
-      "category": "Casual",
+      "category": "T-shirt",
       "image": "https://r.resimlink.com/lqGKMgsX2y.png",
       "sizes": [
         "S",
@@ -24,7 +24,7 @@
       "name": "Polo with Tipping Detail",
       "price": 180,
       "rating": 4.5,
-      "category": "Casual",
+      "category": "T-shirt",
       "image": "https://r.resimlink.com/eJcjU9A.png",
       "sizes": [
         "S",
@@ -46,7 +46,7 @@
       "name": "Striped T-shirt",
       "price": 120,
       "rating": 5,
-      "category": "Casual",
+      "category": "T-shirt",
       "image": "https://r.resimlink.com/ieDNjP3vVzG.png",
       "sizes": [
         "S",
@@ -68,7 +68,7 @@
       "name": "Skinny Fit Jeans",
       "price": 240,
       "rating": 3.5,
-      "category": "Casual",
+      "category": "Jeans",
       "image": "https://r.resimlink.com/AoRd4.png",
       "sizes": [
         "S",
@@ -90,7 +90,7 @@
       "name": "Checkered Shirt",
       "price": 180,
       "rating": 4.5,
-      "category": "Casual",
+      "category": "Shirt",
       "image": "https://r.resimlink.com/dyiSf.png",
       "sizes": [
         "S",
@@ -112,7 +112,7 @@
       "name": "Sleeve Striped T-shirt",
       "price": 130,
       "rating": 4.5,
-      "category": "Casual",
+      "category": "T-shirt",
       "image": "https://r.resimlink.com/xZL8k2.png",
       "sizes": [
         "S",
@@ -134,7 +134,7 @@
       "name": "Vertical Striped Shirt",
       "price": 212,
       "rating": 5,
-      "category": "Casual",
+      "category": "Shirt",
       "image": "https://r.resimlink.com/ijAcEt.png",
       "sizes": [
         "S",
@@ -143,8 +143,8 @@
         "XL"
       ],
       "colors": [
-        "color1",
-        "color2"
+        "Green",
+        "Black"
       ],
       "description": "A vertical striped shirt for a stylish look.",
       "newArrivals": true,
@@ -156,7 +156,7 @@
       "name": "Courage Graphic T-shirt",
       "price": 145,
       "rating": 4,
-      "category": "Gym",
+      "category": "T-shirt",
       "image": "https://r.resimlink.com/r07nF-ThfvV6.png",
       "sizes": [
         "S",
@@ -165,8 +165,8 @@
         "XL"
       ],
       "colors": [
-        "color1",
-        "color2"
+        "Orange",
+        "Black"
       ],
       "description": "A graphic t-shirt with a motivational message.",
       "newArrivals": false,
@@ -178,7 +178,7 @@
       "name": "Confidence Graphic T-shirt",
       "price": 145,
       "rating": 4.5,
-      "category": "Casual",
+      "category": "T-shirt",
       "image": "https://r.resimlink.com/r07nF-ThfvV6.png",
       "sizes": [
         "S",
@@ -187,8 +187,8 @@
         "XL"
       ],
       "colors": [
-        "color1",
-        "color2"
+        "Orange",
+        "Black"
       ],
       "description": "A graphic t-shirt that boosts confidence.",
       "newArrivals": true,
@@ -200,7 +200,7 @@
       "name": "Inspire Graphic T-shirt",
       "price": 145,
       "rating": 5,
-      "category": "Formal",
+      "category": "T-shirt",
       "image": "https://r.resimlink.com/1TqWP_C.png",
       "sizes": [
         "S",
@@ -209,8 +209,8 @@
         "XL"
       ],
       "colors": [
-        "color1",
-        "color2"
+        "Green",
+        "Black"
       ],
       "description": "A graphic t-shirt to inspire others.",
       "newArrivals": false,
@@ -222,7 +222,7 @@
       "name": "Loose Fit Bermuda Shorts",
       "price": 210,
       "rating": 4.5,
-      "category": "Formal",
+      "category": "Shorts",
       "image": "https://r.resimlink.com/ASuW0QhyD.png",
       "sizes": [
         "S",
@@ -244,7 +244,7 @@
       "name": "Fadded Skiny Jeans",
       "price": 210,
       "rating": 4.5,
-      "category": "Gym",
+      "category": "Jeans",
       "image": "https://r.resimlink.com/dSI2GRYoA.png",
       "sizes": [
         "S",
@@ -266,7 +266,7 @@
       "name": "Polo with Tipping Details",
       "price": 180,
       "rating": 4.5,
-      "category": "Formal",
+      "category": "T-shirt",
       "image": "https://r.resimlink.com/wxkjI.png",
       "sizes": [
         "S",
